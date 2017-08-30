@@ -6,7 +6,7 @@
 
 ## Intro
 
-Scuber needs you to develop a fast way to create `Scooters`, `Drivers`, and `PickupLocations` as new business keeps rolling in.
+Scuber needs you to develop a fast way to create `Scooter`s, `Driver`s, and `PickupLocation`s as new business keeps rolling in.
 
 ## Instructions
 
