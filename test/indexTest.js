@@ -23,7 +23,7 @@ describe('objects', function() {
   });
 
   describe('PickupLocation constructor', function(){
-    it("should create a new PickupLocation with three properties", function(){
+    it("should create a new PickupLocation with two properties", function(){
       let poshHotel = new PickupLocation("123 Broadway", "New York City");
       expect(poshHotel).to.be.an.instanceof(PickupLocation);
       expect(poshHotel.address).to.equal("123 Broadway");
