@@ -1,5 +1,3 @@
-const expect = chai.expect;
-
 describe('objects', function() {
   describe('Scooter constructor', function(){
     it("should create a new scooter with three properties", function(){
